@@ -1,10 +1,10 @@
 {
-    "name": "dehats.ccextbuilder",
+    "name": "com.henrikstabell.ccextensionbuilder",
     "title": "Creative Cloud Extension Builder",
     "description": "Create HTML extensions for Creative Cloud Applications",
-    "homepage": "https://github.com/davidderaedt/CC-Extension-Builder-for-Brackets",
-    "version": "1.2.1",
-    "author": "David Deraedt <dderaedt@adobe.com> (http://www.dehats.com)",
+    "homepage": "https://henrikstabell.com/CC-Extension-Builder-for-Brackets",
+    "version": "1.2.5",
+    "author": "David Deraedt <dderaedt@adobe.com> (http://www.dehats.com), Ole Henrik Stabell <ole@henrikstabell.com> (http://www.henrikstabell.com)",
     "license": "MIT",
     "engines": {
         "brackets": ">=0.25.0"
