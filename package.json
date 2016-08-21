@@ -2,8 +2,8 @@
     "name": "com.henrikstabell.ccextensionbuilder",
     "title": "Creative Cloud Extension Builder (CEP 7)",
     "description": "Create HTML extensions for Creative Cloud Applications using CEP 7",
-    "homepage": "https://henrikstabell.com/CC-Extension-Builder-for-Brackets",
-    "version": "1.2.5",
+    "homepage": "https://extensionbuilder.henrikstabell.com",
+    "version": "1.2.6",
     "author": "David Deraedt <dderaedt@adobe.com> (http://www.dehats.com), Ole Henrik Stabell <ole@henrikstabell.com> (http://www.henrikstabell.com)",
     "license": "MIT",
     "engines": {
