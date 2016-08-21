@@ -1,7 +1,7 @@
 #[Creative Cloud Extension Builder for Brackets](https://github.com/Hennamann/CC-Extension-Builder-for-Brackets)
 
 
-![screenshot](http://extensionbuilder.henrikstabell.com/header.jpg "screenshot")
+![screenshot](http://extensionbuilder.henrikstabell.com/images/header.png "screenshot")
 
 A [Brackets](http://brackets.io/) extension to let you create HTML based extensions for Adobe Creative Cloud applications such as Photoshop, Illustrator and InDesign.
 
